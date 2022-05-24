@@ -7,6 +7,7 @@ For those who seek an introduction to Python and SQL for Web Development
 - Microsoft - Introduction to Python: https://docs.microsoft.com/en-us/learn/modules/intro-to-python/
 - Real Python - Introduction to Python: https://realpython.com/learning-paths/python3-introduction/
 - Learn Python: https://learnpython.org/
+- Python 4 Everybody: https://www.py4e.com/lessons
 
 ## Introduction to SQL
 - SQLBolt - Introduction to SQL - https://sqlbolt.com/
