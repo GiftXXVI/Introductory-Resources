@@ -10,6 +10,7 @@ For those who seek an introduction to Python and SQL for Web Development
 - Python 4 Everybody: https://www.py4e.com/lessons
 
 ## Introduction to SQL
+- Udacity - SQL For Data Analysis - https://www.udacity.com/course/sql-for-data-analysis--ud198
 - SQLBolt - Introduction to SQL - https://sqlbolt.com/
 - SQLZoo - SQL Tutorial - https://sqlzoo.net/wiki/SQL_Tutorial
 - Microsoft - Introduction to Transact-SQL - https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/
