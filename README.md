@@ -15,6 +15,8 @@ For those who seek an introduction to Python and SQL for Web Development
 - SQLZoo - SQL Tutorial - https://sqlzoo.net/wiki/SQL_Tutorial
 - Microsoft - Introduction to Transact-SQL - https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/
 - SQLCourse - https://www.sqlcourse.com/beginner-course/
+- A Byte of Python - https://python.swaroopch.com/
+- Automate the Boring Stuff With Python - https://automatetheboringstuff.com/
 
 ## Cheatsheets
 - https://github.com/enochtangg/quick-SQL-cheatsheet
