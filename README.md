@@ -37,4 +37,4 @@ For those who seek an introduction to Python and SQL for Web Development
 ## Unix Shells For Windows
 - Cygwin: https://www.cygwin.com/
 - GitBash: https://git-scm.com/downloads
-- WSL (Windows Subsystem for Linux): (new versions of Windows) https://docs.microsoft.com/en-us/windows/wsl/install | (older versions of Windows) https://docs.microsoft.com/en-us/windows/wsl/install-manual
+- WSL (Windows Subsystem for Linux): (new versions of Windows) https://docs.microsoft.com/en-us/windows/wsl/install | (older versions of Windows) https://docs.microsoft.com/en-us/windows/wsl/install-manual | (full instructions) https://github.com/MicrosoftDocs/wsl/blob/main/WSL/install-manual.md
