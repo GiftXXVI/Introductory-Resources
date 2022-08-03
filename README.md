@@ -28,6 +28,9 @@ For those who seek an introduction to Python and SQL for Web Development
 - https://github.com/gto76/python-cheatsheet
 - https://github.com/wilfredinni/python-cheatsheet
 
+## GitHub
+- https://skills.github.com/
+
 ## Utilities
 ### Visualize Python Code
 - Puthon Tutor: https://pythontutor.com/
